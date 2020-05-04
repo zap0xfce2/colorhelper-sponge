@@ -2,7 +2,7 @@
     {
         "modid": "colorhelper",
         "name": "Colorhelper",
-        "version": "6.1.0",
+        "version": "7.2.1",
         "description": "Helps you with the color codes.",
         "url": "https://github.com/zap0xfce2/colorhelper-sponge"
     }
