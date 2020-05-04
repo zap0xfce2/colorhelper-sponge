@@ -14,6 +14,3 @@ Displays the colorcodes if you type /colorhelper or /ch in the chat.
 ## Changelog
 * **7.2.1**: Fixed a textbreak in MC 1.12 and greater, You can now use /ch or /colorhelper, Updated to Sponge API 7.2.0
 * **6.1.0**: Initial release. 
-
-## Infos for Devs
-* develop branch is the latest for API 6
